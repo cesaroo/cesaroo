@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @cesaroo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @cesaroo (Cezar)
+- 👀Sou Aluno de SI na fauldade Impacta de         Tecnologia  
+- 🌱 I’m currently learning  Python , HTML& CSS JAVA SCRIPT
+- 💞️ I’m looking to collaborate on trocar informaçoe
+- 
+- 
 
 <!---
 cesaroo/cesaroo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
